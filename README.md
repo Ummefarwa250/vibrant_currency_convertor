@@ -1,1 +1,1 @@
-This is a virant_currency-convertor.
+This is a vibrant_currency-convertor.
